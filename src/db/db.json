@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "e4dddb9a-6693-4629-9f96-919df13449cd",
+    "name": "Cynthia Kris",
+    "phone": "366.270.2118 x0180",
+    "email": "Major_Weber-Haley23@gmail.com",
+    "job": "District Program Producer"
+  },
+  {
+    "id": "0e466079-1650-4876-8519-9c3f7c2fd607",
+    "name": "Alton Dach",
+    "phone": "(977) 361-9590 x065",
+    "email": "Hildegard.Batz@yahoo.com",
+    "job": "District Division Director"
+  },
+  {
+    "id": "e41aef9f-0e07-4614-baaf-3c4b880d0cc4",
+    "name": "Leticia Rosenbaum",
+    "phone": "348-568-8148 x8226",
+    "email": "Raymundo57@hotmail.com",
+    "job": "Central Integration Manager"
+  }
+]
